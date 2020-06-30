@@ -1,0 +1,14 @@
+int main()
+{
+    int a,b;
+    double c,d;
+    a = 10;
+    b = 20;
+    c = -10;
+    d = -10.1;
+    d = a-10;
+    if (a>b)
+    {
+        print("%d",a);
+    }
+}

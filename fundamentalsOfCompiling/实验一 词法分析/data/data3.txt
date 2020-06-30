@@ -1,0 +1,8 @@
+int main()
+{
+    // begin
+    print("hello world") //ddfsf
+    /* end */ int a = 10;
+    /* ni hao
+    ya*/
+}

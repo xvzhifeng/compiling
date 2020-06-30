@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="实验四LL1分析法.LL1分析.*" />
+          <option value="实验四LL1分析法.main.Analysis" />
+          <option value="实验五LR分析法.lr.grammar" />
+          <option value="实验五LR分析法.bnf_parser.grammar" />
+          <option value="LR.main.FiniteAutomata" />
+          <option value="LR.LR.FiniteAutomata" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
